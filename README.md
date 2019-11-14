@@ -1,4 +1,4 @@
-# MarkdownExamples
+# Markdown Examples
 new repo with Markdown text
 
 Hello :smile:
@@ -18,7 +18,7 @@ List
    
 Images
 
-![GitHub Logo](/images/test.png)
+![Holiday](/test.png)
 
 
 # Format: ![Picture](https://octodex.github.com/images/yaktocat.png)
