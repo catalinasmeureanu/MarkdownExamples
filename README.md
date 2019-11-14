@@ -20,6 +20,8 @@ Images
 
 ![Holiday](/test.png)
 
+![Present](/images/present.png)
+
 
 # Format: ![Picture](https://octodex.github.com/images/yaktocat.png)
 
