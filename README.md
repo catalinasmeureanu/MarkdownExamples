@@ -34,7 +34,7 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-I think you should use an
+Below is an example code that you should use with an
 `<addr>` element here instead.
 
 ```javascript
